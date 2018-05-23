@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // 修改注释
+        title = "test"
     }
 
     override func didReceiveMemoryWarning() {
